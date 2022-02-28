@@ -1,4 +1,6 @@
 # logos
-Logos and banners for ferrisgram
+This repository contains all the logos and banners related to ferrisgram.
 
-## Licensed under Creative Commons Zero v1.0 Universal
+Logo designed by [Raya](https://github.com/rayadraws).
+
+### Licensed under Creative Commons Zero v1.0 Universal
